@@ -10,6 +10,6 @@ def array_with_two_elements
 end
 
 def first_element(my_first_element)
-  @taylor_swift = ["a", "b", "c"]
+  @taylor_swift = ["Welcome to New York", "b", "c"]
   my_first_element = @taylor_swift.first
 end
