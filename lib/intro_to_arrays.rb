@@ -9,9 +9,8 @@ def array_with_two_elements
   @my_two_array = array_with_two_elements
 end
 
-def first_element
-  first_element = [@taylor.swift]
-  my_first_element = first_element
-  my_first_element[0]
+def first_element(my_first_element)
+  first_element = [@taylor.swift, @kanye.west, @nobody.cares]
+  my_first_element = first_element.first
 end
   
