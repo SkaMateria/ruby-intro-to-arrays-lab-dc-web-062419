@@ -13,4 +13,3 @@ def first_element(my_first_element)
   first_element = [@taylor.swift, @kanye.west, @nobody.cares]
   my_first_element = first_element.first
 end
-  
