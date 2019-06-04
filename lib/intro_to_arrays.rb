@@ -8,3 +8,10 @@ def array_with_two_elements
   array_with_two_elements = ["one", "two"]
   @my_two_array = array_with_two_elements
 end
+
+def first_element
+  first_element = [@taylor.swift]
+  my_first_element = first_element
+  my_first_element[0]
+end
+  
