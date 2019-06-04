@@ -26,5 +26,5 @@ end
 
 def first_element_with_array_methods(first_country)
   @south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
-  first_country = @south_east_asia[0]
+  first_country = @south_east_asia.first
 end
